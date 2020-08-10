@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/coronavirus-tracker/static/css/main.3dda71b9.chunk.css",
-    "main.js": "/coronavirus-tracker/static/js/main.0f40b44b.chunk.js",
-    "main.js.map": "/coronavirus-tracker/static/js/main.0f40b44b.chunk.js.map",
+    "main.css": "/coronavirus-tracker/static/css/main.d34eb3a8.chunk.css",
+    "main.js": "/coronavirus-tracker/static/js/main.9e5cf8c2.chunk.js",
+    "main.js.map": "/coronavirus-tracker/static/js/main.9e5cf8c2.chunk.js.map",
     "runtime-main.js": "/coronavirus-tracker/static/js/runtime-main.a88cc1f8.js",
     "runtime-main.js.map": "/coronavirus-tracker/static/js/runtime-main.a88cc1f8.js.map",
-    "static/js/2.fdb7b7e2.chunk.js": "/coronavirus-tracker/static/js/2.fdb7b7e2.chunk.js",
-    "static/js/2.fdb7b7e2.chunk.js.map": "/coronavirus-tracker/static/js/2.fdb7b7e2.chunk.js.map",
+    "static/js/2.13902d16.chunk.js": "/coronavirus-tracker/static/js/2.13902d16.chunk.js",
+    "static/js/2.13902d16.chunk.js.map": "/coronavirus-tracker/static/js/2.13902d16.chunk.js.map",
     "index.html": "/coronavirus-tracker/index.html",
-    "precache-manifest.707298bda2b468a43c856df9541d9d2c.js": "/coronavirus-tracker/precache-manifest.707298bda2b468a43c856df9541d9d2c.js",
+    "precache-manifest.d04f7ee9a03e7632d5dd6246cfaf3c6a.js": "/coronavirus-tracker/precache-manifest.d04f7ee9a03e7632d5dd6246cfaf3c6a.js",
     "service-worker.js": "/coronavirus-tracker/service-worker.js",
-    "static/css/main.3dda71b9.chunk.css.map": "/coronavirus-tracker/static/css/main.3dda71b9.chunk.css.map",
-    "static/js/2.fdb7b7e2.chunk.js.LICENSE.txt": "/coronavirus-tracker/static/js/2.fdb7b7e2.chunk.js.LICENSE.txt",
+    "static/css/main.d34eb3a8.chunk.css.map": "/coronavirus-tracker/static/css/main.d34eb3a8.chunk.css.map",
+    "static/js/2.13902d16.chunk.js.LICENSE.txt": "/coronavirus-tracker/static/js/2.13902d16.chunk.js.LICENSE.txt",
     "static/media/coronaTrackerApp.css": "/coronavirus-tracker/static/media/coronavirus2.88065f90.png",
     "static/media/doctor1.jpg": "/coronavirus-tracker/static/media/doctor1.aab30f74.jpg",
     "static/media/healthCareWorkers.jpg": "/coronavirus-tracker/static/media/healthCareWorkers.75d7360c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a88cc1f8.js",
-    "static/js/2.fdb7b7e2.chunk.js",
-    "static/css/main.3dda71b9.chunk.css",
-    "static/js/main.0f40b44b.chunk.js"
+    "static/js/2.13902d16.chunk.js",
+    "static/css/main.d34eb3a8.chunk.css",
+    "static/js/main.9e5cf8c2.chunk.js"
   ]
 }
